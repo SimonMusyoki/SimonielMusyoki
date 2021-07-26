@@ -8,8 +8,8 @@
 </p>
 
 <h2 align="center">Hello there!👋🤓</h2>
-<p align="center"> My name is Simoniel Musyoki. I'm a Backend Developer, Graphic Designer, DevOps and Automation Engineer from Kenya.
-I'm currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.</p>
+<p align="center"> My name is Simoniel Musyoki. I'm a Backend Developer, Web & App Developer, DevOps and Automation Engineer from Kenya.
+I'm currently passionate about Web & App Development, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.</p>
 
 ## 🔧 Technologies & Tools
 
